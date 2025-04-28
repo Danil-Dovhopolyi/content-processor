@@ -15,8 +15,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd academic-content-processor
+    git clone https://github.com/Danil-Dovhopolyi/content-processor.git
+    cd content-processor
     ```
 
 2.  **Install server dependencies:**
